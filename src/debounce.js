@@ -17,6 +17,3 @@ export default function useDebounce(value, delay) {
     return [timeStart, timeEnd]; // returns state values, if timeEnd > timeStart, the timeout func ran
 
 }
-
-// [4:35 PM] Mukesh Shukla
-// mukesh.shukla@blenheimchalcot.com
